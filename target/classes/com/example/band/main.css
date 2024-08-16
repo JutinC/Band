@@ -1,0 +1,84 @@
+.anchorPane{
+    /*-fx-background-color: #45c9ff;*/
+}
+.menuBar{
+    -fx-background-color: rgba(152, 240, 255, 0.69);
+    -fx-border-color: rgba(0, 0, 0, 0.2);
+}
+.mainPane{
+    -fx-background-color: rgba(7, 126, 255, 0.56);
+}
+.entryId{
+    /*-fx-background-color: rgba(222, 130, 255, 0.67);*/
+    /*-fx-border-color: rgba(0, 0, 0, 0.2);*/
+}
+.entryFirst:selected{
+    /*-fx-border-color: rgb(108, 181, 255);*/
+}
+.entryFirst{
+    /*-fx-background-color: rgba(222, 130, 255, 0.67);*/
+    /*-fx-border-color: rgba(0, 0, 0, 0.2);*/
+}
+.btnLeftest{
+    -fx-background-color: rgba(142, 82, 255, 0.38);
+    -fx-border-color: rgba(0, 0, 0, 0.2);
+}
+.btnLeftest:hover{
+    -fx-background-color: rgba(100, 11, 255, 0.3);
+}
+.btnLefter{
+    -fx-background-color: rgba(142, 82, 255, 0.38);
+    -fx-border-color: rgba(0, 0, 0, 0.2);
+}
+.btnLefter:hover{
+    -fx-background-color: rgba(100, 11, 255, 0.3);
+}
+.btnLeft{
+    -fx-background-color: rgba(142, 82, 255, 0.38);
+    -fx-border-color: rgba(0, 0, 0, 0.2);
+}
+.btnLeft:hover{
+    -fx-background-color: rgba(100, 11, 255, 0.3);
+}
+.btnCreate{
+    -fx-background-color: rgba(142, 82, 255, 0.38);
+    -fx-border-color: rgba(0, 0, 0, 0.2);
+}
+.btnCreate:hover{
+    -fx-background-color: rgba(100, 11, 255, 0.3);
+}
+.btnSave{
+    -fx-background-color: rgba(142, 82, 255, 0.38);
+    -fx-border-color: rgba(0, 0, 0, 0.2);
+}
+.btnSave:hover{
+    -fx-background-color: rgba(100, 11, 255, 0.3);
+}
+.btnDelete{
+    -fx-background-color: rgba(142, 82, 255, 0.38);
+    -fx-border-color: rgba(0, 0, 0, 0.2);
+}
+.btnDelete:hover{
+    -fx-background-color: rgba(100, 11, 255, 0.3);
+}
+.btnRight{
+    -fx-background-color: rgba(142, 82, 255, 0.38);
+    -fx-border-color: rgba(0, 0, 0, 0.2);
+}
+.btnRight:hover{
+    -fx-background-color: rgba(100, 11, 255, 0.3);
+}
+.btnRighter{
+    -fx-background-color: rgba(142, 82, 255, 0.38);
+    -fx-border-color: rgba(0, 0, 0, 0.2);
+}
+.btnRighter:hover{
+    -fx-background-color: rgba(100, 11, 255, 0.3);
+}
+.btnRightest{
+    -fx-background-color: rgba(142, 82, 255, 0.38);
+    -fx-border-color: rgba(0, 0, 0, 0.2);
+}
+.btnRightest:hover{
+    -fx-background-color: rgba(100, 11, 255, 0.3);
+}
